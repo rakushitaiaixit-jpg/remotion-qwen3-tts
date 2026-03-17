@@ -1,0 +1,34 @@
+[
+  {
+    "id": "scene1_intro",
+    "type": "intro",
+    "startMs": 0,
+    "endMs": 12000,
+    "title": "Voice Keyboard: Typeless",
+    "themeColor": "#2196F3"
+  },
+  {
+    "id": "scene2_feature",
+    "type": "feature",
+    "startMs": 12000,
+    "endMs": 28000,
+    "title": "Seamless Integration",
+    "themeColor": "#4CAF50"
+  },
+  {
+    "id": "scene3_benefit",
+    "type": "benefit",
+    "startMs": 28000,
+    "endMs": 33000,
+    "title": "Zero Context Switching",
+    "themeColor": "#FF5722"
+  },
+  {
+    "id": "scene4_conclusion",
+    "type": "conclusion",
+    "startMs": 33000,
+    "endMs": 42000,
+    "title": "Faster than Swiping",
+    "themeColor": "#9C27B0"
+  }
+]

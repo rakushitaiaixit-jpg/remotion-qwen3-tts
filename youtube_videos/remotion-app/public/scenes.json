@@ -1,0 +1,26 @@
+[
+    {
+        "type": "intro",
+        "startMs": 0,
+        "endMs": 5800,
+        "text": "今回はアンチグラビティとリモーションを使ったスライド自動生成について解説していきます。",
+        "headline": "スライド自動生成",
+        "subText": "Antigravity × Remotion"
+    },
+    {
+        "type": "cta",
+        "startMs": 5800,
+        "endMs": 10600,
+        "text": "スライド作成をもっと楽にしたいという方はぜひ最後まで見てみてください。",
+        "headline": "もっと楽に、もっと速く",
+        "subText": "最後まで見てね"
+    },
+    {
+        "type": "start",
+        "startMs": 10600,
+        "endMs": 12600,
+        "text": "それでは早速やっていきましょう。",
+        "headline": "Let's Go!",
+        "subText": "Start"
+    }
+]

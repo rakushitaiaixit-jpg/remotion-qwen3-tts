@@ -1,0 +1,31 @@
+# 仮想環境を無視
+.venv/
+ai_engines/.venv/
+
+# Node.js
+node_modules/
+youtube_videos/remotion-app/node_modules/
+
+# Python
+__pycache__/
+*.pyc
+
+# エージェント設定
+.agent/
+.agents/
+.antigravity/
+.gemini/
+skills-lock.json
+
+# メディアファイル (大容量のため除外推奨)
+youtube_videos/**/*.wav
+youtube_videos/**/*.mp3
+youtube_videos/**/*.mp4
+**/my_voice.wav
+ai_engines/reference_voices/
+
+# 一時出力
+ai_engines/output/
+
+# OSのゴミ
+.DS_Store
